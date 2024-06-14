@@ -1,5 +1,5 @@
 # DSA-proj
-This work explains a program that takes a math expression written with parentheses and turns it into a prefix and postfix notation.
+It is a program that takes a math expression written with parentheses and turns it into a prefix and postfix notation.
 
 The special feature of this program is that it can handle variables like "A", "B", and so on.  Imagine these variables as boxes that can hold numbers. Initially, all the boxes are empty, but the program lets you change the values inside these boxes.
 
